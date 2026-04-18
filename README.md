@@ -1,1 +1,1 @@
-# REact suprot to Hyscode IDE
+# React Suport to Hyscode IDE
